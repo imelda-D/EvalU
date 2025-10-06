@@ -1,4 +1,4 @@
-📊 EvalU
+EvalU
 
 **EvalU** is a web application designed to support the evaluation and monitoring of teaching quality at the Faculty of Science, Department of Mathematics and Computer Science.  
 
@@ -20,6 +20,6 @@ I acted as the Project Manager, with responsibilities including:
 - Coordinating the team and assigning tasks.  
 - Supervising progress and ensuring deadlines were met.  
 - Contributing to the design and writing the project documentation.  
-## 📝 License
+##  License
 This project was developed for academic purposes within the University of Douala.  
 
